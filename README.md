@@ -71,7 +71,7 @@ electromart/
 
 1. **Clone the repository:**
    ```bash
-   git clone <https://gitlab.stud.idi.ntnu.no/ahmadsa/electromart.git>
+   git clone <https://github.com/ahmadss3/ElectroMart.git>
    cd electromart
    ```
 
